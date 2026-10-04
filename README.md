@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hitesh.ayuvam.com">
-    <img src="assets/dino.gif" width="800" alt="A pixel dinosaur running and jumping over a cactus">
+    <img src="assets/platformer.gif" width="800" alt="A small pixel character running and jumping over a pipe at night">
   </a>
 </p>
 
