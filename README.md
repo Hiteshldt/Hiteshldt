@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hitesh.ayuvam.com">
-    <img src="assets/platformer.gif" width="800" alt="A small pixel character running and jumping over a pipe at night">
+    <img src="assets/platformer.gif" width="800" alt="A pixel character running and jumping beneath a moonlit sky with stars and drifting clouds">
   </a>
 </p>
 
