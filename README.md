@@ -4,7 +4,7 @@
   </a>
 </p>
 
-I’m a software engineer who also designs. I build tools to speed up my work and share them here so others can use and improve them.
+Sketching and writing code. I build tools to speed up my work and share them here so others can use and improve them.
 
 Occasionally, they work on other people’s machines too.
 
