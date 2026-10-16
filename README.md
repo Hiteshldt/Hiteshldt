@@ -8,4 +8,4 @@ Sketching and writing code. I build tools to speed up my work and share them her
 
 Occasionally, they work on other people’s machines too.
 
-[My website](https://hitesh.ayuvam.com) · [Coffee ☕](https://ko-fi.com/hiteshgupta)
+[Personal](https://hiteshgupta.xyz) · [Coffee ☕](https://ko-fi.com/hiteshgupta)
